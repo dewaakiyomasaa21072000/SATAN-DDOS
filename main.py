@@ -806,19 +806,19 @@ def help():
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"layer4   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show Layer4 Methods                    "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"tools    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show tools                             "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"credit   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show credit                            "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Exit KARMA DDoS                        "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Exit SATAN DDOS                        "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"╠═════════════════════════════════════════════════════╣\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using KARMA.                "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Plz star project :)                    "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/HyukIsBack/KARMA-DDoS       "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"CREDIT   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" DEWTOD                                "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"BUY PLAN?    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Pm Discord Dewaa.#6666                  "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"Youtube   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" DEWTOD                               "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
 def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;189mHyuk\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;189mYone不\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189mSkyWtkh\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;189mDEWTOD\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Discord "+Fore.RED+": \x1b[38;2;0;255;189mDewaa.#6666\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189mDEWTOD AND FRIENDS\n")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
     stdout.write("\n")    
 ##############################################################################################
@@ -882,19 +882,19 @@ def tools():
 ##############################################################################################
 def title():
     stdout.write("                                                                                          \n")
-    stdout.write("                                 "+Fore.LIGHTWHITE_EX  +"╦╔═╔═╗╦═╗╔╦╗╔═╗                 \n")
-    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╠╩╗╠═╣╠╦╝║║║╠═╣                 \n")
-    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╩ ╩╩ ╩╩╚═╩ ╩╩ ╩                \n")
+    stdout.write("                                 "+Fore.LIGHTWHITE_EX  +"╔═╗╔═╗╔╦╗╔═╗╔╗                 \n")
+    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╚═╗╠═╣ ║ ╠═╣║║║                 \n")
+    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╚═╝╩ ╩ ╩ ╩ ╩╝╚╝                \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of Karma  "+Fore.LIGHTCYAN_EX  +"       ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of Satan  "+Fore.LIGHTCYAN_EX  +"       ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"          Type [help] to see the Commands    "+Fore.LIGHTCYAN_EX +"       ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - Telegram @zjfoq394   "+Fore.LIGHTCYAN_EX +"        ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - Discord  Dewaa.#6666   "+Fore.LIGHTCYAN_EX +"      ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
 def command():
-    stdout.write(Fore.LIGHTCYAN_EX+"╔═══"+Fore.LIGHTCYAN_EX+"[""root"+Fore.LIGHTGREEN_EX+"@"+Fore.LIGHTCYAN_EX+"Karma"+Fore.CYAN+"]"+Fore.LIGHTCYAN_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
+    stdout.write(Fore.LIGHTCYAN_EX+"╔═══"+Fore.LIGHTCYAN_EX+"[""root"+Fore.LIGHTGREEN_EX+"@"+Fore.LIGHTCYAN_EX+"Satan"+Fore.CYAN+"]"+Fore.LIGHTCYAN_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
     command = input()
     if command == "cls" or command == "clear":
         clear()
